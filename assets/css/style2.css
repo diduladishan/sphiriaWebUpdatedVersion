@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+.image-containers {
+  margin-top: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-navigation {
+  border: 2px solid #1fbfb7;
+}
+
+.quote-icon {
+  color: #1fbfb7;
+}
+
+.ac-chose-bg {
+  border: solid #1fbfb7;
+}
+
+.tp-service-item {
+  border: 1px solid #1fbfb7;
+}
+
+.justifyy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+=======
+.image-containers {
+  margin-top: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+>>>>>>> origin/master
